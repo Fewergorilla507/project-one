@@ -1,3 +1,2 @@
-create leon_master_pagina
 create leon_pagina
 create page new vacature
