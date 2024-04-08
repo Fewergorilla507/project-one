@@ -1,6 +1,3 @@
-create kotlin page
-<<<<<<< HEAD
 create leon_master_pagina
-=======
 create leon_pagina
->>>>>>> location5
+create page new vacature
